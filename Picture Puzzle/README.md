@@ -6,7 +6,7 @@
 
 ![Picture Puzzle 1 1](https://github.com/Sslegendars/Unity-Simple-Game-Project/assets/135840601/8963b0eb-1bfb-40b7-99fd-91cd5ba5b0db)
 
-**Screenshot after finishing the game**
+alt_text[Screenshot after finishing the game]
 
 ![Picture Puzzle 1 2](https://github.com/Sslegendars/Unity-Simple-Game-Project/assets/135840601/50f236f0-68be-479a-904f-9d369716cd89)
 
