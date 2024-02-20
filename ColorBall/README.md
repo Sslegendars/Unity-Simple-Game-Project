@@ -1,4 +1,4 @@
-# Car Racing Game(Local Multiplayer)
+# ColorBall Game
 ## Purpose of the game
 **The aim of this game is to pass the same colored ball through the same colored hoop. The color of the ball is given randomly and the highest score we get in the game is kept in memory.**
 
